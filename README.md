@@ -46,6 +46,6 @@ Chotot content is not working well
 Output in result folder: 
 
 ![Group](./readme_images/content.JPG)
-#   c r a w l _ p a g e 
+
  
  
